@@ -10,7 +10,7 @@
      "env": {
             "AQUA_SESSION": {
             "description": "",
-                "value": "",
+                "value": "AQUA=cphDCKwA#kmmRZoqNE_rmYlSCRUsBr4Yeo7gTF7XJMFQbxfE0wkM,
             "required": true
              },
             "NO_ONLINE": {
